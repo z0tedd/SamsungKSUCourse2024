@@ -1,5 +1,5 @@
 import os
-import bm25_response_model as model
+import response_model as model
 
 # import response_model as model
 import tree_builder

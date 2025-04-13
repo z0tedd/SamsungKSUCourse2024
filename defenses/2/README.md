@@ -19,11 +19,22 @@
 
 Таски:
 
-1. Нагенерить тестовые данные и ответы, используя бд хомяка.
+1. Увеличить тестовую выборку до 500 вопросов
+2. Использовать метрики по ссылкам
+
+<!-- 1. Нагенерить тестовые данные и ответы, используя бд хомяка. -->
+
+Чекнуть метрики по ссылкам:
+
+1. <https://www.niklasbuellesbach.com/metrics-that-matter-for-search/>
+2. <https://heidloff.net/article/search-evaluations/>
+3. <https://streammydata.ru/site-search-metrics-and-how-to-measure-them/>
+4. <https://www.linkedin.com/advice/3/youre-trying-evaluate-your-search-engine-performance-omkfc>
+5. [link](./chat-Search-Engine-Evaluation-Metrics.md)
 
    Ссылки:
 
-1. [RAG](https://habr.com/ru/articles/779526/)
-1. [RAG 2](https://habr.com/ru/articles/850076/)
-1. [sbert](https://developers.sber.ru/portal/products/sbert)
-1. [rubert](https://huggingface.co/ai-forever/ruBert-base)
+6. [RAG](https://habr.com/ru/articles/779526/)
+7. [RAG 2](https://habr.com/ru/articles/850076/)
+8. [sbert](https://developers.sber.ru/portal/products/sbert)
+9. [rubert](https://huggingface.co/ai-forever/ruBert-base)
