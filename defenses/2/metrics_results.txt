@@ -1,0 +1,2 @@
+Mean Reciprocal Rank (MRR): 0.0020
+F1-Score: 0.0000
